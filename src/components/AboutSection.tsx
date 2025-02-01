@@ -1,6 +1,5 @@
 import React from "react";
 import styled from "styled-components";
-import { FaEnvelope } from "react-icons/fa";
 
 const AboutSection: React.FC = () => {
     return (
